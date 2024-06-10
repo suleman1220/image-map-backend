@@ -1,5 +1,7 @@
 # Image Maps Backend
 
+Simple node server for storing uploaded imagesa
+
 ## Run the Server
 
 Create database named `image_map` in your local mysql server
