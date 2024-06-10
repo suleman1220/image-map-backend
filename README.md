@@ -1,6 +1,6 @@
 # Image Maps Backend
 
-Simple node server for storing uploaded imagesa
+Simple node server for storing uploaded images on disk using multer
 
 ## Run the Server
 
